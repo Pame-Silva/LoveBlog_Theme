@@ -1,0 +1,13 @@
+* {
+	font-family: Arial;
+}
+
+.logo-text {
+	color: red;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+input {
+	text-decoration: none;
+}
