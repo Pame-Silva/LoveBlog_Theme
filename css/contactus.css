@@ -1,0 +1,97 @@
+
+* {
+	font-family: Montserrat;
+}
+
+/*HEADER*/
+.logo-text {
+	color: red;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.rectangle {
+	max-width: 100%;
+	height: 40px;
+	background-color: #E7663B;
+}
+
+.rectangle h2 {
+	color: white;
+	font-size: 20px;
+}
+/*TEXTO DERECHA*/
+.AJ {
+	color: #E7663B;
+	font-size: 20px;
+}
+
+.AJ p {
+	font-size: 12px;
+}
+
+.Categories {
+	color: #E7663B;
+	font-size: 20px;
+}
+
+.Categories p {
+	font-size: 10px;
+}
+
+/*MAPA */
+.name input {
+	color:#E7663B
+}
+
+.last input {
+	color:#E7663B
+}
+
+.email input {
+	color:#E7663B
+}
+
+.massage input {
+	color:#E7663B
+}
+
+.submit {
+	background-color: #E7663B;
+	padding: 12px;
+	width: 350px;
+	text-align: center;
+}
+
+.PHGALLERY {
+	color: #E7663B;
+	font-size: 12px;
+}
+
+.PHGALLERY-IMG {
+	width: 200px;
+	display: inline;
+}
+
+.cuadrados-up {
+	display: inline-block;
+}
+
+.cuadrados-down {
+	display: inline-block;
+}
+
+
+/*FOOTER (SE REPITE) */
+.footer {
+	background-color: #E7663B;
+}
+
+.footer h2 {
+	color: white;
+	font-size: 34px;
+}
+
+.footer p {
+	color: white;
+}
